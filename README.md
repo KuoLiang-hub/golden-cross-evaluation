@@ -30,7 +30,6 @@ golden-death-cross/
 ├── requirements.txt           # List of dependencies
 └── README.md                  # Project description
 ```
-
 ---
 
 ## 📊 Key Steps
@@ -132,10 +131,3 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 ---
 
 *“Trade with logic, not emotion.”*
-
-```
-
----
-
-Would you like me to **add a preview image section** (with example plots) or **a performance metrics table** (like returns, win ratio, drawdown) to the README?
-```
