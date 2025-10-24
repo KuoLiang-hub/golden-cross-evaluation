@@ -1,0 +1,50 @@
+Ticker,Company Name,Sector
+AAPL,Apple Inc.,Information Technology
+MSFT,Microsoft Corp.,Information Technology
+NVDA,NVIDIA Corp.,Information Technology
+ADBE,Adobe Inc.,Information Technology
+CRM,"Salesforce, Inc.",Information Technology
+TSM,Taiwan Semiconductor Manufacturing Co. Ltd. (ADR),Information Technology
+AMZN,Amazon.com Inc.,Consumer Discretionary
+TSLA,"Tesla, Inc.",Consumer Discretionary
+HD,"The Home Depot, Inc.",Consumer Discretionary
+MCD,McDonald's Corp.,Consumer Discretionary
+BKNG,Booking Holdings Inc.,Consumer Discretionary
+JPM,JPMorgan Chase & Co.,Financials
+V,Visa Inc.,Financials
+GS,"The Goldman Sachs Group, Inc.",Financials
+CB,Chubb Limited,Financials
+UNH,UnitedHealth Group Inc.,Health Care
+LLY,Eli Lilly and Co.,Health Care
+JNJ,Johnson & Johnson,Health Care
+PFE,Pfizer Inc.,Health Care
+TMO,Thermo Fisher Scientific Inc.,Health Care
+XOM,Exxon Mobil Corporation,Energy
+CVX,Chevron Corporation,Energy
+COP,ConocoPhillips,Energy
+EOG,"EOG Resources, Inc.",Energy
+KO,The Coca-Cola Co.,Consumer Staples
+PEP,"PepsiCo, Inc.",Consumer Staples
+WMT,Walmart Inc.,Consumer Staples
+PG,The Procter & Gamble Co.,Consumer Staples
+COST,Costco Wholesale Corp.,Consumer Staples
+GOOGL,Alphabet Inc. (Class A),Communication Services
+META,"Meta Platforms, Inc. (Class A)",Communication Services
+NFLX,"Netflix, Inc.",Communication Services
+DIS,The Walt Disney Co.,Communication Services
+T,AT&T Inc.,Communication Services
+CAT,Caterpillar Inc.,Industrials
+HON,Honeywell International Inc.,Industrials
+BA,The Boeing Co.,Industrials
+MMM,3M Co.,Industrials
+LMT,Lockheed Martin Corp.,Industrials
+NEE,"NextEra Energy, Inc.",Utilities
+DUK,Duke Energy Corp.,Utilities
+SO,The Southern Co.,Utilities
+D,"Dominion Energy, Inc.",Utilities
+APD,"Air Products and Chemicals, Inc.",Materials
+LIN,Linde plc,Materials
+FCX,Freeport-McMoRan Inc.,Materials
+ECL,Ecolab Inc.,Materials
+PLD,"Prologis, Inc.",Real Estate
+AMT,American Tower Corp.,Real Estate

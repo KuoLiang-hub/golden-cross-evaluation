@@ -25,8 +25,8 @@ This notebook:
 ```
 golden-death-cross/
 │
-├── data/                     # Optional: Cached price data (if downloaded)
-├── Golden_Death_Cross.ipynb  # Main analysis notebook
+├── data/                      # Directory to load and store data
+├── Golden_Death_Cross.ipynb   # Main analysis notebook
 ├── requirements.txt           # List of dependencies
 └── README.md                  # Project description
 ```
@@ -57,9 +57,15 @@ golden-death-cross/
 - 🔁 Buy/Sell markers for each cross event  
 - 📈 Comparison between strategy vs. benchmark returns  
 
-*(You can embed images here once you have output plots!)*  
+*Mircrosoft Adjusted Close 2020-2024*  
 
-![Strategy Performance](images/strategy_performance.png)
+![Strategy Performance](images/MSFT_signal_n_performance.png)
+
+
+*Test on 49 Stocks, the majority under perform simply buy and hold*  
+
+![Strategy Performance](images/GD-Cross-Backtest-Results.png)
+
 
 
 ---
