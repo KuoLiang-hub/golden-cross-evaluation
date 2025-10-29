@@ -26,6 +26,7 @@ This notebook:
 golden-death-cross/
 │
 ├── data/                      # Directory to load and store data
+├── images/                    # Directory to store images
 ├── Golden_Death_Cross.ipynb   # Main analysis notebook
 ├── requirements.txt           # List of dependencies
 └── README.md                  # Project description
